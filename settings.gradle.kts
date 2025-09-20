@@ -1,0 +1,1 @@
+rootProject.name = "Aplicativo_de_Controle_de_Transacoes_Financeiras_com_POO"
